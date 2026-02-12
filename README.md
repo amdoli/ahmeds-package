@@ -1,5 +1,6 @@
 # ahmeds-package
 if you want to be smart and everyone likes you even the bitc- don't use my package
+# (it's better to use ahmedsWorking_place.py because it has all the funcs and you can run it and after edit it)
 # here are the functions in each library and what should it do:
 # in AhmedsMath: calc() to use my calculator and if you don't want to use the whole calculator and want simple tasks you can just use thease funcs [add(x,y), subtract(x,y), mult(x,y), div(x,y)]
 # in AhmedsCheckInt: checkint(value) the value you insert is being checked if it's an intger returns "True" else "False". || writeint() it's to get the value from the user and check if it's and integer or not
